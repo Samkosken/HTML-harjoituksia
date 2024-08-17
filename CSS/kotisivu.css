@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(23, 166, 7);
+    color: white;
+}
+header {
+    background-color: rgb(92, 203, 13);
+    color: white;
+}
+section {
+    width: 50%;
+    background-color: green;
+    padding-left: 10px;
+}
+h1, h2, h3 {
+    text-shadow: 2px 2px 4px #000000;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+}
+article {
+    background-color: green;
+    color: rgb(0, 64, 0);
+}
+.ala {
+    background-color: lightgreen;
+    color: black;
+    height: 30px;
+    padding-top: 5px;
+    padding-left: 10px;
+    text-align: center;
+}
+nav {
+    background-color: lightgreen;
+    width: 20%;
+    margin-left: 13%;
+    color: #000000;
+    text-align: center;
+    padding: 2px;
+}
+.wiki {
+    text-align: right;
+}
+aside {
+    width: 15%;
+    float: right;
+
+}
+aside article {
+    padding-left: 10px;
+    padding-right: 10px;
+}
