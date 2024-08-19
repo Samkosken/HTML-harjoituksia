@@ -22,7 +22,6 @@ h1, h2, h3 {
 }
 article {
     background-color: #804e15;
-    color: rgb(0, 64, 0);
 }
 .ala {
     background-color: #ffd8aa;
@@ -34,11 +33,17 @@ article {
 }
 nav {
     background-color: #ffd8aa;
-    width: 20%;
+    width: 30%;
     margin-left: 13%;
     color: #000000;
     text-align: center;
-    padding: 2px;
+}
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+nav li {
+    float: left;
 }
 .wiki {
     text-align: right;
