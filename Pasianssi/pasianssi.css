@@ -24,9 +24,6 @@ h1 {
 .navigointipalkki a:hover {
     background-color: #19171E;
 }
-.kuva {
-    /*float: left;*/
-}
 .video {
     width: 512px;
     height: 288px;
